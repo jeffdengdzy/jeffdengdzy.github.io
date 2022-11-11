@@ -1,4 +1,4 @@
-# 通信大数据行程卡（伪）
+# 通信大数据行程卡
 
 使用方法：
 https://jeffdengdzy.github.io/?addr=广东省广州市
